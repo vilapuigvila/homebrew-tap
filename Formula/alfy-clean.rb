@@ -1,8 +1,8 @@
 class AlfyClean < Formula
   desc "macOS helper that cleans Xcode, simulator and developer caches"
   homepage "https://github.com/vilapuigvila/alfy-clean"
-  url "https://github.com/vilapuigvila/alfy-clean/archive/refs/tags/v0.0.2.tar.gz"
-  sha256 "caf8e6aed3e0e627baead10d6f8eb5e488c17e537d119789cc1f908e1a9e70aa"
+  url "https://github.com/vilapuigvila/alfy-clean/archive/refs/tags/v0.1.0.tar.gz"
+  sha256 "604ee34fd9400de46442e3586014a640b0cf8a0e253341e1fea669f75ed79550"
   head "https://github.com/vilapuigvila/alfy-clean.git", branch: "development"
 
   depends_on macos: :monterey
